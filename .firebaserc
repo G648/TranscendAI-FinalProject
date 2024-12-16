@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "transcendai-project",
+    "default": "transcendai-senai-project",
     "transcendAIProject": "transcendai-project"
   },
   "targets": {},

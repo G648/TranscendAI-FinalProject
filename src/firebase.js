@@ -15,21 +15,13 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBxmhz-2HQMek9kIi3a7GJd0TnfDcpT_HM",
-  authDomain: "https://transcendai-project.web.app",
-  projectId: "sociallogin-dd739",
-  storageBucket: "sociallogin-dd739.appspot.com",
-  messagingSenderId: "197075812521",
-  appId: "1:197075812521:web:632d3bd54033d1fd2a69b8",
-  measurementId: "G-KBERK72EHB"
-  /*
-  apiKey: 'AIzaSyCz9X0WxeOGoRvdbIf22favHrAWqvcWFbQ',
-  authDomain: 'dc-auth-app.firebaseapp.com',
-  projectId: 'dc-auth-app',
-  storageBucket: 'dc-auth-app.appspot.com',
-  messagingSenderId: '717092564249',
-  appId: '1:717092564249:web:f6ba4bed303391b2536988',
-  */
+  apiKey: "AIzaSyDOZ9JO4yAHcukTFbBfSguHR1BcpB8veDo",
+  authDomain: "transcendai-senai-project.firebaseapp.com",
+  projectId: "transcendai-senai-project",
+  storageBucket: "transcendai-senai-project.firebasestorage.app",
+  messagingSenderId: "618595826100",
+  appId: "1:618595826100:web:fdb78e2a3155c04af2dae1",
+  measurementId: "G-L08XBBNFMK"
 };
 
 // Initialize Firebase
