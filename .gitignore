@@ -25,3 +25,5 @@ dist-ssr
 .firebase
 
 .Keys.js
+
+api-google-hangfire-monitoring-mongodb-*
