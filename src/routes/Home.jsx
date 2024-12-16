@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { UserContext } from '../contexts/UserContext';
 import Header from '../components/Header';
 import InfoBox from '../components/InfoBox/InfoBox';
-import Menu_Bar from '../components/menuBar/MenuBar';
+import Menu_Bar from '../components/MenuBar/MenuBar';
 import FilesList from '../components/FilesList/FilesList';
 import { Title } from '../components/Fonts/Fonts';
 import Transcricao from '../assets/Icons/Transcricoes.svg';
