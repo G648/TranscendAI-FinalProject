@@ -9,7 +9,7 @@ import TinyButton from './button/Button';
 import PostNotification from './notification/Notification';
 import '../components/FilesList/scroll.css';
 import { RxHamburgerMenu } from 'react-icons/rx';
-import Menu_Bar from './menuBar/MenuBar';
+import Menu_Bar from './MenuBar/MenuBar';
 import { IoNotifications } from 'react-icons/io5';
 
 //Dados mocadas de uma notificação
