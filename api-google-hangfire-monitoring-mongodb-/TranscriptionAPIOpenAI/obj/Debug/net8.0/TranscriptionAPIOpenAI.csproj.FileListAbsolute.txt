@@ -1,0 +1,403 @@
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.json
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.exe
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.deps.json
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.runtimeconfig.json
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Drive.v3.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Oauth2.v2.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Core.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.MemoryStorage.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Mongo.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.NetCore.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.SqlServer.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Snappier.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.Management.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.AssemblyReference.cache
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfoInputs.cache
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfo.cs
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.CoreCompileInputs.cache
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.sourcelink.json
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.TranscriptionAPIOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranscriptionAPIOpenAI.props
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranscriptionAPIOpenAI.props
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranscriptionAPIOpenAI.props
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\scopedcss\bundle\TranscriptionAPIOpenAI.styles.css
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.CopyComplete
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\refint\TranscriptionAPIOpenAI.dll
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.genruntimeconfig.cache
+C:\Users\49802004863\Desktop\TranscendAI\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\ref\TranscriptionAPIOpenAI.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.json
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.exe
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.deps.json
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.runtimeconfig.json
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Drive.v3.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Oauth2.v2.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Core.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.MemoryStorage.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Mongo.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.NetCore.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.SqlServer.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Snappier.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.Management.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.AssemblyReference.cache
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfoInputs.cache
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfo.cs
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.CoreCompileInputs.cache
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.TranscriptionAPIOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranscriptionAPIOpenAI.props
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranscriptionAPIOpenAI.props
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranscriptionAPIOpenAI.props
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\scopedcss\bundle\TranscriptionAPIOpenAI.styles.css
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.CopyComplete
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\refint\TranscriptionAPIOpenAI.dll
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.genruntimeconfig.cache
+C:\Users\836574281\Desktop\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\ref\TranscriptionAPIOpenAI.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.exe
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.deps.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.runtimeconfig.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Drive.v3.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Oauth2.v2.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Core.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.MemoryStorage.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Mongo.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.NetCore.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.SqlServer.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Snappier.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.Management.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.AssemblyReference.cache
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfoInputs.cache
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfo.cs
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.TranscriptionAPIOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranscriptionAPIOpenAI.props
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranscriptionAPIOpenAI.props
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranscriptionAPIOpenAI.props
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\scopedcss\bundle\TranscriptionAPIOpenAI.styles.css
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\Transcri.51D07986.Up2Date
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\refint\TranscriptionAPIOpenAI.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.genruntimeconfig.cache
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\ref\TranscriptionAPIOpenAI.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.json
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.exe
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.deps.json
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.runtimeconfig.json
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Drive.v3.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Oauth2.v2.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Core.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.MemoryStorage.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Mongo.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.NetCore.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.SqlServer.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Snappier.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.Management.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.AssemblyReference.cache
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfoInputs.cache
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfo.cs
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.CoreCompileInputs.cache
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.TranscriptionAPIOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranscriptionAPIOpenAI.props
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranscriptionAPIOpenAI.props
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranscriptionAPIOpenAI.props
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\scopedcss\bundle\TranscriptionAPIOpenAI.styles.css
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.CopyComplete
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\refint\TranscriptionAPIOpenAI.dll
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.genruntimeconfig.cache
+C:\Users\836574281\Documents\api-google-hangfire-monitoring-mongodb-\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\ref\TranscriptionAPIOpenAI.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.exe
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.deps.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.runtimeconfig.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Drive.v3.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Oauth2.v2.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Core.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.MemoryStorage.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Mongo.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.NetCore.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.SqlServer.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Snappier.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.Management.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.AssemblyReference.cache
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfoInputs.cache
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfo.cs
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.TranscriptionAPIOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranscriptionAPIOpenAI.props
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranscriptionAPIOpenAI.props
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranscriptionAPIOpenAI.props
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\scopedcss\bundle\TranscriptionAPIOpenAI.styles.css
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\Transcri.51D07986.Up2Date
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\refint\TranscriptionAPIOpenAI.dll
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.genruntimeconfig.cache
+C:\Users\Marcio\Downloads\api-google-hangfire-monitoring-mongodb- (4)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\ref\TranscriptionAPIOpenAI.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\appsettings.json
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.exe
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.deps.json
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.runtimeconfig.json
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Drive.v3.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Google.Apis.Oauth2.v2.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Core.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.MemoryStorage.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.Mongo.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.NetCore.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Hangfire.SqlServer.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Snappier.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\System.Management.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.AssemblyReference.cache
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfoInputs.cache
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.AssemblyInfo.cs
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.CoreCompileInputs.cache
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.TranscriptionAPIOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranscriptionAPIOpenAI.props
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranscriptionAPIOpenAI.props
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranscriptionAPIOpenAI.props
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\scopedcss\bundle\TranscriptionAPIOpenAI.styles.css
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.csproj.CopyComplete
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\refint\TranscriptionAPIOpenAI.dll
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.pdb
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\TranscriptionAPIOpenAI.genruntimeconfig.cache
+C:\Users\49802004863\Desktop\API\api-google-hangfire-monitoring-mongodb- (1)\api-google-hangfire-monitoring-mongodb-\TranscriptionAPIOpenAI\obj\Debug\net8.0\ref\TranscriptionAPIOpenAI.dll

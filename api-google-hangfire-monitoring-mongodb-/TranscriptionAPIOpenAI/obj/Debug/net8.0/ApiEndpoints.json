@@ -1,0 +1,328 @@
+[
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "GetConsentUrl",
+    "RelativePath": "Transcription/auth-url",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "Callback",
+    "RelativePath": "Transcription/callback",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "DeleteFile",
+    "RelativePath": "Transcription/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "DownloadFile",
+    "RelativePath": "Transcription/download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "GetFilesStatus",
+    "RelativePath": "Transcription/files-status",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "folderIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "ListFilesWithStatus",
+    "RelativePath": "Transcription/files-with-status/{folderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "folderId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "ListFilesInFolder",
+    "RelativePath": "Transcription/files/{folderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "folderId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "ListFolders",
+    "RelativePath": "Transcription/folders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "DeleteFolder",
+    "RelativePath": "Transcription/folders/delete/{folderId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "folderId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "SaveFolder",
+    "RelativePath": "Transcription/folders/save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "folder",
+        "Type": "TranscriptionAPIGoogle.Controllers.TranscriptionController\u002BFolderModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "GetSavedFolders",
+    "RelativePath": "Transcription/folders/saved",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "MonitorAndTranscribe",
+    "RelativePath": "Transcription/monitor-and-transcribe/{folderId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "folderId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "ScheduleMonitorAndTranscribe",
+    "RelativePath": "Transcription/schedule-monitor-and-transcribe/{folderId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "folderId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "SearchKeywords",
+    "RelativePath": "Transcription/search-keywords",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "keywords",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "GetTranscriptionDetail",
+    "RelativePath": "Transcription/transcription-detail/{fileId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "GetTranscriptionDetailWithKeyword",
+    "RelativePath": "Transcription/transcription-detail/{fileId}/{keyword}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "keyword",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "GetTranscriptions",
+    "RelativePath": "Transcription/transcriptions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "GetTranscriptionsWithStatus",
+    "RelativePath": "Transcription/transcriptions-with-status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "MarkAsFavorite",
+    "RelativePath": "Transcription/transcriptions/{id}/favorite",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "UnmarkAsFavorite",
+    "RelativePath": "Transcription/transcriptions/{id}/unfavorite",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "UploadFile",
+    "RelativePath": "Transcription/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "parentId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionAPIGoogle.Controllers.TranscriptionController",
+    "Method": "GetUserInfo",
+    "RelativePath": "Transcription/userinfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
