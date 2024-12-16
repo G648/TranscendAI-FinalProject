@@ -1,0 +1,17 @@
+input::placeholder {
+    font-size: 1rem;
+    transition: font-size 0.3s ease;
+  }
+  
+input.active-placeholder::placeholder {
+    font-size: 1.2rem; /* Tamanho maior enquanto está em foco */
+}
+
+input {
+    width: 100%; /* Tamanho original */
+    transition: width 0.3s ease;
+  }
+  
+input.expanded-input {
+    width: 120%; /* Aumenta o tamanho enquanto está focado */
+  }

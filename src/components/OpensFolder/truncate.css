@@ -1,0 +1,15 @@
+.truncate-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    /* Define o limite de linhas como 2 */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    word-break: break-word;
+    width: 10ch;
+    /* Limita a largura para cerca de 10 caracteres por linha */
+    max-height: 3em;
+    /* Ajuste conforme necessário */
+    text-align: left;
+}

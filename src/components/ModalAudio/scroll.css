@@ -1,0 +1,25 @@
+/* scroll.css */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background-color: #878787;
+    border-radius: 10px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #FA7B3B;
+    border-radius: 10px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background-color: #34A853;
+  }
+  
+  .bg-yellow-300 {
+    background-color: yellow;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,52 @@
+/* Estilização do player */
+.audio-player {
+    background-color: #EEEEEE; /* cor de fundo */
+    border-radius: 8px;
+    display: flex;
+    width: 90%;
+  }
+  
+  /* Estilo dos botões */
+  .audio-player button {
+    color: #ff924f !important; /* Cor dos ícones dos botões */
+    font-size: 35px;
+  }
+  
+  .audio-player button:hover {
+    color: #ff924f; /* Cor ao passar o mouse */
+    transform: scale(1.1); /* Aumenta o tamanho ao passar o mouse */
+  }
+  
+  /* Barra de progresso */
+  .audio-player .rhap_progress-bar {
+    background-color: #383838;
+    border-radius: 4px;
+    height: 5px;  /* Verifique se a altura é suficiente */
+    position: relative;
+    width: 360px;
+  }
+  
+.audio-player .rhap_progress-indicator {
+  background-color: #FA7B3B;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  position: absolute;
+  top: -3px; /* Ajuste do posicionamento */
+  
+}
+
+.audio-player .rhap_progress-indicator:hover {
+  background-color: #ff924f; /* Cor ao passar o mouse */
+  transform: scale(1.2); /* Aumenta o tamanho ao passar o mouse */
+  cursor: pointer;
+}
+  
+  /* Tempo atual e total */
+  .audio-player .rhap_time {
+    color: #ff924f;
+    font-size: 14px;
+    
+  }
+
+  
