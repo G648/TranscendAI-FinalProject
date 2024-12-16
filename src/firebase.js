@@ -16,7 +16,7 @@ import {
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyBxmhz-2HQMek9kIi3a7GJd0TnfDcpT_HM",
-  authDomain: "sociallogin-dd739.firebaseapp.com",
+  authDomain: "https://transcendai-project.web.app",
   projectId: "sociallogin-dd739",
   storageBucket: "sociallogin-dd739.appspot.com",
   messagingSenderId: "197075812521",
