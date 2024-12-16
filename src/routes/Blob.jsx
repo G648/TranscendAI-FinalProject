@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./styles.css";
-import { CreateImageFile } from "../AzureConfig/ServerConfig";
+import { CreateImageFile } from "../azureConfig/ServerConfig";
 
 export default function TesteBlob() {
   const [files, setFiles] = useState([]);
